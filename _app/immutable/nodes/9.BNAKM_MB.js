@@ -1,0 +1,1 @@
+import"../chunks/BUGhTafE.js";import"../chunks/xihTtKlq.js";import{t as e}from"../chunks/DSLhI27X.js";function t(t){let n=[{name:`핵심 기술`,path:`/skills/`},{name:`제품`,path:`/products/`},{name:`브랜드 스토리`,path:`/brand-story/`},{name:`문의하기`,path:`/contact/`}];e(t,{get menus(){return n}})}export{t as component};
